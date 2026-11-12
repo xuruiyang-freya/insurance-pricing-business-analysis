@@ -42,15 +42,15 @@ The project analyses policy exposure, claim counts, driver age, vehicle age and 
 ## Key Analytical Findings
 
 ### Driver Age
-
+![Claim Frequency by Driver Age](outputs/frequency_by_driver_group.png)
 Drivers aged 18–25 showed an observed claim frequency of approximately 17.51%, compared with 9.62% for drivers aged 26–35.
 
 ### Vehicle Age
-
+![Claim Frequency by Vehicle Age](outputs/frequency_by_vehicle_group.png)
 Vehicles aged 0–2 years showed an observed claim frequency of approximately 13.77%, compared with 7.95% for vehicles aged 11 years or older.
 
 ### Geographic Risk
-
+![Claim Frequency by Area](outputs/frequency_by_Area.png)
 Observed claim frequency varied across geographic categories, from approximately 8.17% in Area A to 13.91% in Area F.
 
 These findings represent descriptive associations and should not be interpreted as independent causal effects or approved commercial rating relativities.
