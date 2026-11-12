@@ -1,0 +1,2 @@
+rows_clean,policies_train,policies_test,total_exposure_years,total_claims,observed_claim_frequency,test_poisson_deviance_model,test_poisson_deviance_baseline,severity_assumption_eur
+678013,542595,135418,358499.4454629838,36102,0.10070308464041305,0.599858066276443,0.6176588580829192,2000.0
